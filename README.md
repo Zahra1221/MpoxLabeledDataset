@@ -1,6 +1,6 @@
 # Mpox Labeled Dataset
 
-The dataset shared in this repository includes the tweets related to Mpox, posted from South Africa. The dataset has been manually labeled for stance-detection, and classified into three classes: Positive, Neutral, and Negative. Each class is defined as:
+The dataset shared in this repository, Mpox.csv, includes the tweets related to Mpox, posted from South Africa. The dataset has been manually labeled for stance-detection, and classified into three classes: Positive, Neutral, and Negative. Each class is defined as:
 
 - Positive: In this class the authors of the tweets agree with the government's response to Mpox outbreak, and strongly support, and trust it.
 - Negative: In this class the authors are unfaithful towards government's ability to contain and control Mpox.
