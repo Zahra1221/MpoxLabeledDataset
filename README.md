@@ -9,5 +9,4 @@ The dataset shared in this repository, Mpox.csv, includes the tweets related to 
 Due to [Twitter's deveoper agreement](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only tweet IDs could be publicly shared; therefore, this dataset includes only two columns, namely, TweetID and Label. In order to have access to the actual tweet and other metadata such as created date and/or location, the tweet IDs need to be [hydrated](https://towardsdatascience.com/learn-how-to-easily-hydrate-tweets-a0f393ed340e).
 This dataset could be used for non-commercial purposes only, as long as it is not redistributed. If you use our dataset in your work, please cite our manuscript:
 
-Perikli N, Bhattacharya S, Ogbuokiri B, Movahedi Nia Z, Lieberman B, et al, Evaluating Automatic Annotation of Lexicon-Based
-Models for Stance-Detection of M-pox Tweets, PLOS Digital Health, 2024;
+Perikli N, Bhattacharya S, Ogbuokiri B, Movahedi Nia Z, Lieberman B, et al, Evaluating Automatic Annotation of Lexicon-Based Models for Stance Detection of M-pox Tweets from May 1st to Sep 5th, 2022, PLOS Digital Health, 2024;
